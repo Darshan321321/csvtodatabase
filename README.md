@@ -1,2 +1,1 @@
-How to upload the csv data into postgres tables using java
-
+How to upload the csv file into postgres database using java
